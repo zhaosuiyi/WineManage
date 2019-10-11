@@ -1,0 +1,7 @@
+com\wine\common\config\RedisConfig.class
+com\wine\common\config\DataSourceConfig.class
+com\wine\common\config\MybatisSqlSessionFactoryBean.class
+com\wine\common\CommonApplication.class
+com\wine\common\config\SwaggerConfiguration.class
+com\wine\common\config\MybatisPlusConfiguration.class
+com\wine\common\config\StrategyConfig.class
