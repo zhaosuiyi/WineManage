@@ -35,7 +35,7 @@
         <mysql.version>5.1.40</mysql.version>
         <ojdbc14.version>10.2.4.4.0</ojdbc14.version>
         <commons-lang.version>2.6</commons-lang.version>
-        <commons-beanutils.version>1.9.3</commons-beanutils.version>
+        <commons-beanutils.version>1.9.4</commons-beanutils.version>
         <alibaba-dubbo.version>2.0.0</alibaba-dubbo.version>
         <cw.version>1.0-SNAPSHOT</cw.version>
         <zookeeper.version>3.4.7</zookeeper.version>
